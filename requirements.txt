@@ -9,3 +9,4 @@ seaborn
 pybase64
 streamlit-aggrid
 plotly
+streamlit-option-menu
