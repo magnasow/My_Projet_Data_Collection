@@ -10,3 +10,4 @@ pybase64
 streamlit-aggrid
 plotly
 streamlit-option-menu
+streamlit-lottie
